@@ -1,16 +1,6 @@
-# Capstone Project
+# Choosing a Capstone Topic and Dataset
 
-Congratulations on making it to the Capstone project! It's been a long journey, but we can finally see the light at the end of the tunnel!
-
-![Actual Footage of you seeing the light at the end of the tunnel](https://raw.githubusercontent.com/learn-co-curriculum/dsc-capstone-project/main/images/end-of-tunnel.gif)
-
-Now that you've learned all the material in our course, it's time to show off and flex your data science muscles with your own **_Capstone Project_**! This project will allow you to showcase everything you've learned as a data scientist to by completing a professional-level data science project of your choosing. This project will be significantly larger than any project you've completed so far, and will be the crown jewel of your portfolio. A strong capstone project is the single most important thing you can do to get the attention of potential employers, so be prepared to put as much effort into this project as possible - the results will be **_worth it!_**
-
-![Your portfolio brings all the employers to your inbox](https://raw.githubusercontent.com/learn-co-curriculum/dsc-capstone-project/main/images/milkshake.gif)
-
-## Project Overview
-
-Your Capstone project should develop a data product or analysis related to a single topic of your choice. You are free to choose any topic and use any data, so long as your project meets the requirements below.
+Unlike the previous projects, we are not providing you with any topic/dataset options. Topic selection is part of the challenge of the Capstone project!
 
 ### Choosing a Topic
 
@@ -53,35 +43,10 @@ There are plenty of amazing places that you can get your data from. We recommend
 * [UCI Machine Learning Datasets Repository](https://archive.ics.uci.edu/ml/datasets.php)
 * [Kaggle Datasets](https://www.kaggle.com/datasets)
 * [Awesome Datasets Repo on Github](https://github.com/awesomedata/awesome-public-datasets)
-
-## The Deliverables
-
-There are three deliverables for this project:
-
-* A **GitHub repository**
-* A **Jupyter Notebook**
-* A **non-technical presentation**
-
-Review the "Project Submission & Review" page in the "Milestones Instructions" topic for instructions on creating and submitting your deliverables. Refer to the rubric associated with this assignment for specifications describing high-quality deliverables.
-
-### Key Points
-
-* **Project management is key.**  You have a lot of freedom in this project - this can feel liberating, but also means that you can accidentally lose a lot of time if you're not careful. Map out a rough daily project plan with key milestones and due dates for deliverables - you can adjust this as needed as you progress. Use this to make sure you're making timely progress towards successful completion. Ask for help if you find yourself struggling to keep up with your plan.
-
-* **Create an MVP, then refine it.** Once you've chosen a project, define a Minimum Viable Product (MVP) that you feel confident you can deliver, and set daily goals to get that done as soon as you can. This will reduce your anxiety about whether or when you can finish the project, and will give you the time you need to polish all of your deliverables so that they are super shiny for sharing with employers.
-
-* **Your deliverables should explicitly address each step of the data science process.** Refer to [the Data Science Process lesson](https://github.com/learn-co-curriculum/dsc-data-science-processes) from Topic 19 for more information about process models you can use.
-
-## Getting Started
-
-Create a new repository for your project to get started. We recommend structuring your project repository similar to the structure in [the Phase 1 Project Template](https://github.com/learn-co-curriculum/dsc-project-template). You can do this either by creating a new fork of that repository to work in or by building a new repository from scratch that mimics that structure.
-
-You can also check out [Capstone projects from former Flatiron DS students](https://github.com/learn-co-curriculum/dsc-capstone-examples) for inspiration.
-
-## Project Submission and Review
-
-Review the "Capstone Submission & Review" page in the "Milestones Instructions" topic to learn how to submit your project and how it will be reviewed. Your project must pass review for you to graduate from your program.
-
-## Summary
-
-The Capstone Project is the most critical part of the program. It gives you a chance to bring together all the skills you've learned into a realistic project, including the project management, business analysis, and communication.  Most importantly, it provides employers with strong signal about your technical abilities and allows you to show the world what an amazing Data Scientist you've become!
+* Local data portals for state and local government resources
+    - Examples: [NYC](https://opendata.cityofnewyork.us/), [Houston](http://data.houstontx.gov/), [Seattle](https://data.seattle.gov/), [California](https://data.ca.gov/)
+* [Inside AirBNB](http://insideairbnb.com/)
+* [FiveThirtyEight’s data portal](https://data.fivethirtyeight.com/)
+* [Data is Plural’s Archive Spreadsheet](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0)
+* [Datasets Subreddit](https://www.reddit.com/r/datasets/)
+* [Tensorflow Datasets](https://www.tensorflow.org/datasets/catalog/overview)
