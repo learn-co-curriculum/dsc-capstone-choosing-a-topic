@@ -24,9 +24,11 @@ Your data must be...
 
 3. **Somewhat complex.** It should contain thousands of rows and features that require creativity to use. You _can_ use a pre-existing clean dataset, but you should consider combining it with other datasets and/or engineering your own features.
 
-4. **Unfamiliar.** It can't be one we've already worked with during the course or that is commonly used for demonstration purposes (e.g. MNIST).
+4. **Unfamiliar.** It can't be one we've already worked with during the course or that is commonly used for demonstration purposes (e.g. MNIST).  
 
-5. **Manageable.** Stick to data that you can model with the knowledge and computational resources you have.
+5. **Publicly Available.** Data should be available to the public to prevent any issues with sharing sensitive information as well as to allow for reproducibility.
+
+6. **Manageable.** Stick to data that you can model with the knowledge and computational resources you have.
 
 Once you've sourced your own data and identified the business problem you want to solve with it, you must to **run them by your instructor for approval**.
 
